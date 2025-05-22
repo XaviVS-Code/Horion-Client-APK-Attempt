@@ -66,4 +66,4 @@ The code in this specific repository (i.e., the porting effort itself, not the o
 
 The original Horion client likely has its own licensing terms (or lack thereof). This project does not grant any rights to the original Horion code beyond what its original distributors/authors allow.
 
-**This Project will be updated at leat once a week until finished**
+**This project will be updated at least once a week until finished**
